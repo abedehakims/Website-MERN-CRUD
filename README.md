@@ -30,7 +30,7 @@ Before you begin, ensure you have the following installed:
 ### Installation
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/abedehakims/Website-CRUD-MyBini.git](https://github.com/abedehakims/Website-CRUD-MyBini.git)
+    git clone [https://github.com/abedehakims/Website-MERN-CRUD.git](https://github.com/abedehakims/Website-MERN-CRUD.git)
     ```
 2.  **Database Configuration:**
     * Create a new database named `mybinidb`.
@@ -38,7 +38,7 @@ Before you begin, ensure you have the following installed:
     * Update your database credentials in the configuration file (`config.php` or `.env`).
 3.  **Deploy:**
     * Move the project folder to your `htdocs` or public directory.
-    * Open your browser and navigate to `http://localhost/Website-CRUD-MyBini`.
+    * Open your browser and navigate to `http://localhost/Website-MERN-CRUD`.
 
 ## 🛡 Security Features
 * **SQL Injection Prevention:** Uses prepared statements for all database interactions.
